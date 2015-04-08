@@ -71,7 +71,6 @@ class PlaySoundsViewController: UIViewController
     
     @IBAction func stopAudioPlayback() {
         resetAudioEngine()
-        //audioPlayer.stop()
     }
 
 }
